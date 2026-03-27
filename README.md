@@ -27,7 +27,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 3.  **Inicie o Expo:**
     ```bash
-    npm start
+    npx expo start
     ```
 
 4.  **Visualize o App:**
